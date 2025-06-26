@@ -49,6 +49,9 @@ public:
 	//UFUNCTION(BlueprintImplementableEvent, Category = "CameraSwitch")
 	void CameraSwitch();
 
+	UFUNCTION(BlueprintCallable, Category="CAMERASWITCH")
+	void cameraswitchfunction();
+	
 	// for flip flop
 	bool bIsUsingCamera1;
 };

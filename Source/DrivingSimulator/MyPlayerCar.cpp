@@ -60,6 +60,11 @@ void AMyPlayerCar::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 	
 }
+void AMyPlayerCar::cameraswitchfunction()
+{
+	CameraSwitch();
+}
+
 
 // Switching camera
 void AMyPlayerCar::CameraSwitch()
