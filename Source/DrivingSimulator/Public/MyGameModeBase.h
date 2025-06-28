@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "BP_StraightRoadActor.h"
+
 #include "Kismet/GameplayStatics.h"
 #include "MyGameModeBase.generated.h"
 
@@ -20,6 +20,4 @@ protected:
 public:
 	void CreateRoad(); // Declare here
 	
-	UPROPERTY(EditAnywhere, Category = "Spawning")
-	TSubclassOf<class ABP_StraightRoadActor> RoadActorClass;
 };
