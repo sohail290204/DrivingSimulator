@@ -4,3 +4,5 @@ Mad Wheels is a casual driving simulation game developed as a 7-day speed-run pr
 3) Speed Run – beat the timer by reaching the goal quickly.
 4) Parking Mode – carefully maneuver into tight spots.
 5) Low Fuel – reach the finish line before you run dry.
+Built in Unreal Engine 5.5, Mad Wheels is a showcase of rapid development using both Blueprints and C++ for core gameplay logic. The game uses Unreal's Vehicle Plugin to implement realistic car movement and physics. For content, it features vehicles from the Vehicle Car Asset Pack (sourced via Fab) and low-poly city buildings from Sketchfab, creating a stylized and lightweight urban environment. All user interface elements — including menus, buttons, and icons — were created with the help of ChatGPT, ensuring quick iteration and consistency across the UI. Sound design was handled using MetaSounds for vehicle effects, and free background music assets were integrated to enhance immersion. With its clean visuals, responsive controls, and variety of driving modes, Mad Wheels focuses on providing a polished and fun driving experience — all within a 7-day game jam challenge.
+
