@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/55d8fc90-0d34-4bf7-bd9c-5bcb22c2e4e3)Mad Wheels is a casual driving simulation game developed as a 7-day speed-run project, where chaos meets control in a city full of reckless drivers. In this unpredictable urban environment, you're tasked with navigating the streets safely while everyone around you drives like a maniac. The goal? Survive and complete various unique game modes that test your precision, patience, and driving skills. Choose from four distinct vehicles — Hatchback, Pickup, SUV, and Sports Car — each with their own strengths and weaknesses in handling, speed, and fuel efficiency. The game offers multiple modes to keep the experience fresh and challenging:
+Mad Wheels is a casual driving simulation game developed as a 7-day speed-run project, where chaos meets control in a city full of reckless drivers. In this unpredictable urban environment, you're tasked with navigating the streets safely while everyone around you drives like a maniac. The goal? Survive and complete various unique game modes that test your precision, patience, and driving skills. Choose from four distinct vehicles — Hatchback, Pickup, SUV, and Sports Car — each with their own strengths and weaknesses in handling, speed, and fuel efficiency. The game offers multiple modes to keep the experience fresh and challenging:
 1) Endless Mode – drive as long as you can without crashing.
 2) Brake Fail – your brakes are gone; stay alive!
 3) Speed Run – beat the timer by reaching the goal quickly.
@@ -10,6 +10,7 @@ Built in Unreal Engine 5.5, Mad Wheels is a showcase of rapid development using 
 Download link: https://krypton29.itch.io/mad-wheels
 Full Gameplay link: https://youtu.be/Os3_FYVcL7w
 
+![image](https://github.com/user-attachments/assets/55d8fc90-0d34-4bf7-bd9c-5bcb22c2e4e3)
 ![image](https://github.com/user-attachments/assets/f7dccb98-5d3b-4cc5-a181-276183b00cd0)
 ![image](https://github.com/user-attachments/assets/31920683-aa33-4ef4-aa44-1aa966f69716)
 ![image](https://github.com/user-attachments/assets/99b3ad4b-9396-4db1-b245-64b797ffce22)
